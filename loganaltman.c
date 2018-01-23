@@ -11,7 +11,7 @@
 
 int main(int argv, char **argc){
 
-	printf("Logan Altman\n");
+	printf("Logan Altman Grace Larsen\n");
 	
 	return 0;
 	
